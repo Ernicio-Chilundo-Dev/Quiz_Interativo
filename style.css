@@ -33,7 +33,7 @@ h2{
 }
 
 /* Botoens de resposta */
-answer-btn{
+.answer-btn{
     display: block;
     background-color: #3498db;
     color: #fff;
@@ -47,7 +47,7 @@ answer-btn{
     transition: backgroun-color 0.3s ease;
 }
 
-/* Estilo para hoher nos botoes */
+/* Estilo para hover nos botoes */
 .answer-btn:hover{
     background-color: #2980b9;
 }
